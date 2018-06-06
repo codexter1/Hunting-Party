@@ -1,33 +1,33 @@
-#Hunting Party
+# Hunting Party
 I created this app to put the fun of scavenger hunts into the hands of friend groups. Most of the scavenger hunt apps that already exist provide pre-made games and objectives with linear progression, ie. the rules remain uniform and don't have much variation between games. In my app, I hope to balance creative freedom with simplicity, and casual gameplay with compelling reward.
 
-##Why Hunting Party?:
+## Why Hunting Party?:
 I saw building a scavenger hunt app as a great opportunity to learn React Native. I think that the nature of building games teaches developers design sense, user awareness, and programming logic. They are a great first project. I also believe that while the core game design can be fairly simple, there is so much in the way of users' interaction with each other. Learning to write code that will allow users to do as may different things as possible is one of my focuses as a budding developer. Therefore, I believe this is the perfect project to present, and continue working on for the next few months.
 
-#User Stories:
+# User Stories:
 **Johnny Billups:** Johnny wants to stay in contact with all his friends who are moving into different cities. He uses Hunting Party because of their built in chat functionality coupled with the games that he can make spontaneously for his friends. He invites them easily, and since the templates for games are not rigid, he can require anything from landmarks, to riddles, or both. He also enjoys that he can send the winners giftcards and amazon items.
 
-##Technology Stack:
+## Technology Stack:
 React Native: Frontend structure
 JavaScript: Frontend functionality
 Axios: Backend
 Firebase: Database
 
 
-##Core Goals:
+## Core Goals:
 1) A 9 piece game board with each block accepting input.
 
 2) A friend interface that allows a user to start a game with friends.
 
 3) A Map API that shows the location of the user when they complete their task.
 
-##Stretch Goals:
+## Stretch Goals:
 1) A messenger system for user's to keep in touch.
 
 2) An API that allows users to send gifts to the winners of games.
 
 
-##React Native Setup and Workflow:
+## React Native Setup and Workflow:
 **Below** you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
 
 ## Table of Contents
